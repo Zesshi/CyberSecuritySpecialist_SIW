@@ -281,7 +281,7 @@ Repository | Description
 | [mitmproxy](https://mitmproxy.org/)     | CLI-based HTTP(S) proxy to intercept and modify HTTP requests. |
 | [Wireshark](https://www.wireshark.org/) | GUI-based pcap, pcapng analyzer and network traffic sniffer.   |
 
-### Deobfuscation & Unpacking
+### Deobfuscation
 
 | Repository                                                                                      | Description                                            |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
