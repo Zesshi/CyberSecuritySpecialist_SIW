@@ -268,7 +268,6 @@ Repository | Description
 | [CipherSuite](https://ciphersuite.info/)                                      | A searchable directory of TLS ciphersuites.                                                                             |
 | [CyberChef](https://gchq.github.io/CyberChef/)                                | A web app for encryption, encoding, compression and data analysis.                                                      |
 | [FTK Imager](https://www.exterro.com/ftk-imager)                              | Investigate disk images.                                                                                                |
-| [KnockKnock](https://objective-see.org/products/knockknock.html)              | Show persistence on macOS                                                                                               |
 | [Magika](https://github.com/google/magika)                                    | Detect file content types with deep learning.                                                                           |
 | [Velociraptor](https://github.com/Velocidex/velociraptor)                     | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries. |
 | [Volatility](https://github.com/volatilityfoundation/volatility)              | Analyze memory dump files.                                                                                              |
@@ -330,7 +329,6 @@ Repository | Description
 | [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)                                   | Detect file type and packer used for Windows executables.                                         |
 | [DRAKVUF](https://github.com/CERT-Polska/drakvuf-sandbox?tab=readme-ov-file)                  | Self-hosted sandbox.                                                                              |
 | [Joe's Sandbox](https://www.joesandbox.com/#windows)                                          | Cloud-based sandbox.                                                                              |
-| [mac-monitor](https://github.com/redcanaryco/mac-monitor)                                     | Advanced process monitoring for macOS                                                             |
 | [oletools](https://github.com/decalage2/oletools)                                             | Toolkit for Microsoft Office documents (Word, Excel, etc.) to extract VBA, embedded objects, etc. |
 | [PEiD](https://github.com/wolfram77web/app-peid)                                              | Detect packer, cryptor, and compiler used for Windows executables.                                |
 | [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Shows parent-child relationships between processes and open DLL handles.                          |
